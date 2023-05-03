@@ -4,7 +4,7 @@ import mpmath as mp
 import matplotlib.pyplot as plt
 from scipy import special as sp
 # from pandas import dataframe
-
+# Alterado
 h = 10
 phi = 0.25
 ct = 0.0001
